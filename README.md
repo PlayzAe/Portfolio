@@ -3,20 +3,20 @@
 Welcome to my portfolio! This repository showcases my expertise in software development and motion graphics. Here, you will find a selection of my projects, including personalized weather forecast apps and various motion graphic creations.
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [About Me](https://georges-portfolio-bac87a.webflow.io/)
+- [Projects](https://github.com/PlayzAe/PlayzAe.github.io)(disbandoned)
+- [Skills](https://dotnet.microsoft.com/en-us/)
+- [Contact](azuorugeorge@gmail.com)
 
 ## About Me
-I am a passionate software developer and motion graphics designer with expertise in C#, .NET MAUI, After Effects, and Blender. With a background in both coding and design, I create innovative solutions and captivating visual content.
+I am a passionate software developer and motion graphics designer with expertise in C# C++, .NET MAUI, After Effects, and Blender. With a background in both coding and design, I create innovative solutions and captivating visual content.
 
 ## Projects
 
 ### Personalized Weather Forecast App
 - **Description:** A mobile application built with C# and .NET MAUI that provides personalized weather forecasts.
 - **Features:** Real-time weather updates, location-based forecasts, and a user-friendly interface.
-- **Link:** [Weather App Repository](still working on it and fixing some bugs)
+- **Link:** [Weather App Repository](still working on it and fixing some bugs due to cross-platform)
 
 ### Motion Graphics Projects
 1. **Project Name:** Gucci Promo
