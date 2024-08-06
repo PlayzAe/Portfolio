@@ -4,7 +4,8 @@ Welcome to my portfolio! This repository showcases my expertise in software deve
 
 ## Table of Contents
 - [About Me](https://georges-portfolio-bac87a.webflow.io/)
-- [Projects](https://github.com/PlayzAe/PlayzAe.github.io)(disbandoned)
+- [Old Project](https://github.com/PlayzAe/PlayzAe.github.io) (disbandoned)
+- [New Projects] (Yet To add)
 - [Skills](https://dotnet.microsoft.com/en-us/)
 - [Contact](azuorugeorge@gmail.com)
 
