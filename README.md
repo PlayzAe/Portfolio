@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository showcases my expertise in software deve
 - [Old Project](https://github.com/PlayzAe/PlayzAe.github.io) (disbandoned)
 - [New Projects] (Yet To add)
 - [Skills](https://dotnet.microsoft.com/en-us/)
-- [Contact](azuorugeorge@gmail.com)
+- [Contact] azuorugeorge@gmail.com
 
 ## About Me
 I am a passionate software developer and motion graphics designer with expertise in C# C++, .NET MAUI, After Effects, and Blender. With a background in both coding and design, I create innovative solutions and captivating visual content.
