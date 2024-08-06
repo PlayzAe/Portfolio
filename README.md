@@ -23,7 +23,7 @@ I am a passionate software developer and motion graphics designer with expertise
 1. **Project Name:** Gucci Promo
    - **Tools Used:** After Effects
    - **Description:** A dynamic animation created for a promotional video.
-   - **Link:** [Animation Project 2](https://youtu.be/IejfX4CGEDE)
+   - **Link:** [Animation Project 1](https://youtu.be/IejfX4CGEDE)
 
   2. **Project Name:** Quckie App Promotion
    - **Tools Used:** After Effects
